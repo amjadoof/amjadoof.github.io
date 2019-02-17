@@ -524,7 +524,6 @@ select {
 	padding: 1.5rem 0;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;
@@ -2593,5 +2592,31 @@ footer .copyright span:last-child::after {
 #go-top a:hover {
 	background: #000000;
 }
+.contact a{
+	color: aquamarine;
+}
 
+.interests ul{
+	list-style: none;
+}
+
+#publications{
+	padding-top: 12rem;
+	padding-bottom: 12rem;
+}
+
+.publication-section-body ul{
+	list-style: none;
+}
+
+.publication-content a{
+	color:#fff;
+}
+
+.publication{
+	padding: 20px;
+	height: 150px;
+	margin: 0 5px;
+	background: #866b6b57;
+}
 /*# sourceMappingURL=main.css.map */
